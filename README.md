@@ -1,7 +1,7 @@
 
 ![Google 1998](google1998.PNG)
 
-Bu repo İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo İçerisinde bir adet README dosyası, bir adet index.html ve css dosyası barındırıyor.
 
 ## Installation
 Öncelikle projeyi clonelayın.
